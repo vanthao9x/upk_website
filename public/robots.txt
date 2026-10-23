@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://hmnwebsite.pro.vn/sitemap.xml
+Sitemap: https://upkwebsite.pro.vn/sitemap.xml
 

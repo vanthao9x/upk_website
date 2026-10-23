@@ -38,7 +38,7 @@ const PreviewPage = () => {
                     <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" className={styles.logo} />
                     <h2>CHỦ ĐỀ: {title}</h2>
                     {code && <h3> Mã: {code}</h3>}
-                    <h4 className={styles.phone}>📞 Hotline: 0335 340 793</h4>
+                    <h4 className={styles.phone}>📞 Hotline: 038 58 555 33</h4>
 
                     <div className={styles.facebook}>
                         <a href="https://www.facebook.com/profile.php?id=100065047388603" target="_blank"
@@ -69,7 +69,7 @@ const PreviewPage = () => {
                     <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" className={styles.logo} />
                     <h2>CHỦ ĐỀ: {title}</h2>
                     {code && <h3> Mã: {code}</h3>}
-                    <h4 className={styles.phone}>📞 Hotline: 0335 340 793</h4>
+                    <h4 className={styles.phone}>📞 Hotline: 038 58 555 33</h4>
 
                     <div className={styles.facebook}>
                         <a href="https://www.facebook.com/profile.php?id=100065047388603" target="_blank"

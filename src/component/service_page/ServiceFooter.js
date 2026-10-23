@@ -7,9 +7,9 @@ const ServiceFooter = () =>{
         <>
             <footer className={styles.footer}>
                 <h3>Liên hệ để được tư vấn</h3>
-                <p><FaPhone className={styles.contactIcon}/> Hotline: <a href="tel:0335340793">0335 340 793</a></p>
+                <p><FaPhone className={styles.contactIcon}/> Hotline: <a href="tel:0385855533">038 58 555 33</a></p>
                 <p><FaEnvelope className={styles.contactIcon}/> Email: <a
-                    href="mailto:hungnguuen988@gmail.com">hungnguyen988@gmail.com</a></p>
+                    href="mailto:levanthaolvt228@gmail.com">levanthaolvt228@gmail.com</a></p>
                 <div className={styles.socialIcons}>
                     <a href="https://www.facebook.com/profile.php?id=100065047388603" target="_blank" rel="noopener noreferrer">
                         <FaFacebook className={styles.socialIcon}/>
